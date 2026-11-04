@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "deploy": "firebase deploy"
+  },
+  "dependencies": {
+    "firebase-tools": "^15.34.2"
+  }
+}
